@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://l.top4top.io/p_3926w5c761.png" alt="Hellix Crew Logo" width="160" />
+</p>
+
 # 🚀 Hellix Crew
 
 > **Visi**: *"Don't be evil"*  
